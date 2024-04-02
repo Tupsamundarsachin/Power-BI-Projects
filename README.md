@@ -27,6 +27,14 @@ this Power BI dashboard offers an insightful analysis of employee attrition with
 
 
 
+7) Life Expectancy Dashboard:
+this Power BI dashboard provides a comprehensive analysis of factors influencing life expectancy across different regions. Through interactive visuals and insightful metrics, it explores various determinants such as healthcare expenditure, sanitation, and socio-economic indicators. By leveraging advanced analytics and geographic mapping, stakeholders can gain valuable insights into disparities in life expectancy and identify areas for targeted interventions. This dashboard serves as a valuable tool for policymakers, public health professionals, and researchers to understand the complex dynamics of life expectancy and inform strategies for improving population health outcomes.
+
+
+8) 
+
+
+
 
 
 
