@@ -13,4 +13,9 @@ this Power BI dashboard provides a comprehensive analysis of call center perform
 this Power BI dashboard offers a comprehensive overview of company booking activities. Through interactive visuals and insightful metrics, it provides a detailed analysis of booking trends, client preferences, and revenue generation. With its user-friendly interface and drill-down capabilities, stakeholders can easily identify patterns, track performance, and make informed decisions to optimize company booking processes. This dashboard serves as a valuable tool for enhancing operational efficiency and maximizing profitability within the company's booking operations.
 
 
+4) COVID-19 Case Study: 
+this Power BI dashboard provides a comprehensive analysis of COVID-19 data. Through interactive visuals and data-driven insights, it offers a deep dive into various aspects of the pandemic, including infection rates, mortality rates, testing trends, and vaccination progress. With its dynamic filters and geographic visualizations, stakeholders can track the spread of the virus, assess healthcare system capacities, and monitor the effectiveness of containment measures. This dashboard serves as a valuable resource for policymakers, healthcare professionals, and the general public to understand and respond effectively to the ongoing COVID-19 crisis.
 
+
+
+5) 
