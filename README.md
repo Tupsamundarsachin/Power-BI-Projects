@@ -18,4 +18,8 @@ this Power BI dashboard provides a comprehensive analysis of COVID-19 data. Thro
 
 
 
-5) 
+5) Customer Churn Analysis:
+this Power BI dashboard provides a comprehensive analysis of customer churn dynamics. Through interactive visuals and key metrics, it delves into factors influencing customer attrition, such as demographics, subscription plans, and service usage patterns. By leveraging predictive analytics and segmentation techniques, stakeholders can identify at-risk customers, devise targeted retention strategies, and ultimately reduce churn rates. This dashboard serves as a vital tool for businesses aiming to enhance customer retention efforts and sustain long-term growth and profitability.
+
+
+6) 
