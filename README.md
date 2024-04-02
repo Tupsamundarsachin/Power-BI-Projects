@@ -31,7 +31,8 @@ this Power BI dashboard offers an insightful analysis of employee attrition with
 this Power BI dashboard provides a comprehensive analysis of factors influencing life expectancy across different regions. Through interactive visuals and insightful metrics, it explores various determinants such as healthcare expenditure, sanitation, and socio-economic indicators. By leveraging advanced analytics and geographic mapping, stakeholders can gain valuable insights into disparities in life expectancy and identify areas for targeted interventions. This dashboard serves as a valuable tool for policymakers, public health professionals, and researchers to understand the complex dynamics of life expectancy and inform strategies for improving population health outcomes.
 
 
-8) 
+8) U.S Pollution Analysis:
+this Power BI dashboard offers a comprehensive analysis of pollution levels across the United States. Through interactive visuals and detailed metrics, it examines various pollutants such as particulate matter, ozone, and sulfur dioxide, and their impacts on air quality and public health. Leveraging geographic mapping and trend analysis, stakeholders can gain insights into pollution hotspots, temporal trends, and regulatory compliance. This dashboard serves as a valuable resource for environmental agencies, policymakers, and advocacy groups in their efforts to monitor pollution levels, enforce regulations, and protect the environment and public health.
 
 
 
