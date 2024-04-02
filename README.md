@@ -22,4 +22,11 @@ this Power BI dashboard provides a comprehensive analysis of COVID-19 data. Thro
 this Power BI dashboard provides a comprehensive analysis of customer churn dynamics. Through interactive visuals and key metrics, it delves into factors influencing customer attrition, such as demographics, subscription plans, and service usage patterns. By leveraging predictive analytics and segmentation techniques, stakeholders can identify at-risk customers, devise targeted retention strategies, and ultimately reduce churn rates. This dashboard serves as a vital tool for businesses aiming to enhance customer retention efforts and sustain long-term growth and profitability.
 
 
-6) 
+6) HR attrition Case Study:
+this Power BI dashboard offers an insightful analysis of employee attrition within the organization. Through interactive visuals and comprehensive metrics, it examines various factors contributing to attrition, such as employee demographics, job roles, and performance ratings. By leveraging predictive modeling and trend analysis, stakeholders can identify patterns, predict attrition risks, and develop targeted retention strategies. This dashboard serves as a valuable resource for HR professionals and organizational leaders seeking to understand, mitigate, and address employee turnover effectively, ultimately fostering a more engaged and stable workforce.
+
+
+
+
+
+
