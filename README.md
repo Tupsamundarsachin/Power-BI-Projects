@@ -9,4 +9,8 @@ This comprehensive dashboard offers insightful analysis and visualization of key
 this Power BI dashboard provides a comprehensive analysis of call center performance metrics. With a focus on key indicators such as call volumes, response times, agent productivity, and customer satisfaction scores, this dashboard offers valuable insights for optimizing call center operations and enhancing service quality. Through interactive visuals and drill-down capabilities, users can delve into specific trends, identify areas for improvement, and drive strategic decision-making to ensure optimal performance and customer experience within the call center environment.
 
 
-3)
+3) Company Booking Dashboard:
+this Power BI dashboard offers a comprehensive overview of company booking activities. Through interactive visuals and insightful metrics, it provides a detailed analysis of booking trends, client preferences, and revenue generation. With its user-friendly interface and drill-down capabilities, stakeholders can easily identify patterns, track performance, and make informed decisions to optimize company booking processes. This dashboard serves as a valuable tool for enhancing operational efficiency and maximizing profitability within the company's booking operations.
+
+
+
